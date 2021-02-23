@@ -8,7 +8,7 @@
 - Python
 
 📫 How to reach me:
-[My Website](www.wooneusean.me)
+[My Website](http://wooneusean.me)
 
 💼 I'm currently looking for a Software Engineering Internship!
 
