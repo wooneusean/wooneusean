@@ -6,6 +6,7 @@
 - TypeScript
 - Next.js
 - Python
+- ASP.NET
 
 📫 How to reach me:
 [My Website](https://wooneusean.me)
